@@ -11,7 +11,7 @@ import java.util.Scanner;
     变量:与方法名规则同
     包名:全部小写
 */
-public class No_10001 {
+public class No_1001 {
     public static void main(String [] args){
         Scanner scanner = new Scanner(System.in);
         int num1 = Integer.parseInt(scanner.next());
